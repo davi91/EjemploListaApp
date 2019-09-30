@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Igual que hemos hecho con los String podemos hacerlo con las imágenes -->
+    <array name="foodImgs">
+        <item>@drawable/fabada</item>
+        <item>@drawable/lentejas</item>
+        <item>@drawable/garbanzos</item>
+    </array>
+</resources>

@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">EjemploListaApp</string>
     <string name="action_settings">Settings</string>
+
+    <!-- Para manejar arrays en XML, con strings lo podemos usar así -->
+    <string-array name="foodArray">
+        <item>Fabada</item>
+        <item>Lentejas</item>
+        <item>Garbanzos</item>
+    </string-array>
 </resources>
